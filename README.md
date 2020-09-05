@@ -18,9 +18,7 @@ According to legend, the shadow of the Bima figure wrapped around Nabatnawa rose
 
 ![Statue of Bima](https://www.kintamani.id/wp-content/uploads/Patung-Dewa-Ruci-Kuta-1.jpg)
 
-## Bimacoin forking how-to
-
-### Preparation
+## How to Support Us
 
 1. Create an account on [GitHub.com](github.com)
 2. Fork [Bimacoin repository](https://github.com/michaeljx/Bimacoin)
