@@ -6,7 +6,7 @@ Bimacoin-to-Bimacoin transactions are made by digitally exchanging anonymous, he
 
 ![Logo of Bimacoin](https://i.ibb.co/PTQFd8W/20200826-233813-0000-removebg-preview.png)
 
-This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurrency protocol.
+This is the reference code for Bimacoin cryptocurrency protocol.
 
 ## Etymology
 
