@@ -8,9 +8,15 @@ Bimacoin-to-Bimacoin transactions are made by digitally exchanging anonymous, he
 
 This is the reference code for [CryptoNote](https://cryptonote.org) cryptocurrency protocol.
 
-* Launch your own CryptoNote currency: [CryptoNote Starter](https://cryptonotestarter.org/)
-* CryptoNote reference implementation: [CryptoNoteCoin](https://cryptonote-coin.org)
-* Discussion board and support: [CryptoNote Forum](https://forum.cryptonote.org)
+## Etymology
+
+The term "Bima" comes from the wayang play which tells the story of a Javanese and Balinese God, Ruci. Although not the original part of the main story in wayang, this story is very popular in Javanese and Balinese society and is performed by many puppeteers in Java.
+
+In the story, the Bima character who is also called Werkodara fights with a dragon snake named Nabatnawa. The dragon managed to wrap Bima, and the dragon thought he would die. But Bima remembered his Pancanaka nails and stabbed them into the dragon's body. The dragon died, and Bima became free.
+
+According to legend, the shadow of the Bima figure wrapped around Nabatnawa rose into the sky and became a bright latitude in the night sky called the 'Bima Sakti' (Milky Way).
+
+![Statue of Bima](https://www.kintamani.id/wp-content/uploads/Patung-Dewa-Ruci-Kuta-1.jpg)
 
 ## Bimacoin forking how-to
 
